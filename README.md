@@ -15,10 +15,10 @@ We implement and analyze:
 
 ---
 
-## 🗂️ Project Structure
+## Project Structure
 📁 Jailbreaking-Deep-Models/
-├── 📄 report.pdf
-├── 📁 data/
+├── report.pdf
+├── data/
 │ └── TestDataSet/
 ├── 📁 adversarial_test_set_1/ # FGSM
 ├── 📁 adversarial_test_set_2/ # PGD
@@ -27,7 +27,7 @@ We implement and analyze:
 
 ---
 
-## 🧪 Experimental Results
+## Experimental Results
 
 | Dataset                  | ResNet-34 Top-1 | ResNet-34 Top-5 | DenseNet-121 Top-1 | DenseNet-121 Top-5 |
 |--------------------------|-----------------|------------------|---------------------|----------------------|
@@ -48,8 +48,8 @@ We implement and analyze:
 
 ---
 
-## 🧠 Models Used
+## Models Used
 
-- 🎯 **ResNet-34** for primary attacks
-- 🔁 **DenseNet-121** for transferability evaluation  
+- **ResNet-34** for primary attacks
+- **DenseNet-121** for transferability evaluation  
 All models loaded using `torchvision.models` with pretrained ImageNet-1K weights.
