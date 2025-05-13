@@ -1,8 +1,6 @@
 # Jailbreaking Deep Models
 *A study of adversarial attacks on ImageNet classifiers – Spring 2025 Deep Learning Project*
 
-![Adversarial Examples](https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Adversarial_Example.svg/800px-Adversarial_Example.svg.png)
-
 ---
 
 ## Overview
