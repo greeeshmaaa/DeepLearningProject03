@@ -1,4 +1,4 @@
-# Jailbreaking Deep Models
+# Deep Learning Project 3 : Jailbreaking Deep Models
 *A study of adversarial attacks on ImageNet classifiers – Spring 2025 Deep Learning Project*
 
 ---
