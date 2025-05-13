@@ -38,7 +38,7 @@ We implement and analyze:
 
 ---
 
-## 📊 Attack Techniques
+## Attack Techniques
 
 | Attack | Perturbation | Scope      | ε (budget) | Steps | Notes |
 |--------|--------------|------------|------------|-------|-------|
